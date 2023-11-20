@@ -6,7 +6,7 @@ SAM   更新时间 2023/11/11 至结束
 
 NSPDE 更新时间 2023/11/05 至 L7 结束 (WEEK 04 前半节课，余 L8/9/10/11/12)
 
-NLA 更新时间 2023/11/18 至 第 stability 7.4 章理论部分 结束 (余 7.5-12 章) 。
+NLA 更新时间 2023/11/20 至 第 stability 结束 更改了 stability 部分符号规定，细化了浮点运算的相关理论 (余 8-12 章) 。
 
 APDE 更新时间 2023/11/10 至 第 4.4 结束 (WEEK 05 前半节课，余 WEEK 05 后半节 & WEEK 06) 对 Method of Characteristics 至 Domain of Definition 的部分内容进行了调整。
 
